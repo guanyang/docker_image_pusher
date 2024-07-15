@@ -1,4 +1,5 @@
 nginx
+openjdk:8u342-jdk
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
@@ -7,3 +8,11 @@ xhofe/alist:latest
 #个人镜像
 guanyangsunlight/trojan-parent:trojan-quarkus-service-1.0.0-SNAPSHOT
 guanyangsunlight/trojan-parent:trojan-quarkus-mysql-8.0.32
+guanyangsunlight/jrebel-ls
+guanyangsunlight/openai-spring:openai-starter-test-0.0.1
+guanyangsunlight/spring-project-samples:sample-mysql-8.0.32
+guanyangsunlight/spring-project-samples:webflux-sample-0.0.1-SNAPSHOT
+guanyangsunlight/spring-project-samples:virtualthread-sample-0.0.1-SNAPSHOT
+guanyangsunlight/spring-project-samples:quarkus-sample-0.0.1-SNAPSHOT
+guanyangsunlight/spring-project-samples:native-sample-0.0.1-SNAPSHOT
+guanyangsunlight/spring-project-samples:quarkus-mysql-8.0.32
